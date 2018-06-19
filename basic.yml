@@ -1,0 +1,11 @@
+name: RawFileCleaner
+description: 'A tool to manage photo archives'
+website: 'https://github.com/michaelhel/RawFileCleaner/releases'
+repository: 'https://github.com/michaelhel/RawFileCleaner'
+category: 'Photo & Video'
+keywords:
+    - raw
+    - clean
+    - jpg
+    - compressed
+license: 'MIT license'
